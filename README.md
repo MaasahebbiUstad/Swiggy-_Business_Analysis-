@@ -8,8 +8,6 @@ This project combines data analysis and prediction to make it easier for future 
 
 <br/>
 
-
-
 **Why this Project?**
 
 1. Our project aimed to provide valuable insights for entrepreneurs looking to establish restaurants in Bangalore.
@@ -41,6 +39,12 @@ This project combines data analysis and prediction to make it easier for future 
 **Learnings**
 
 1. Web Scraping
+
+2. Deep understand of ML algorithms
+
+3. Prompt Engineering
+
+4. Team and time management
 
 
 
