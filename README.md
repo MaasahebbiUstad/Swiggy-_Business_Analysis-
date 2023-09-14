@@ -40,26 +40,42 @@ Advanced machine learning algorithms were employed to develop predictive models 
     <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/e5d5912e-61b7-496e-aa05-0eae3e111c45"  height="350" width="800"/>
 </div> 
 
+- The striking alignment of the top 20 restaurants, each boasting an impressive 14,444 delivery ratings, underscores an exceptional level of consistency and excellence in their service 
+  quality and customer satisfaction. This achievement is a testament to their unwavering commitment to delivering a superior dining experience, as validated by an extensive and 
+  discerning customer base.
 
 <br>
 <div id="header" align="center">
     <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/34d78a3d-c44a-42f8-be64-2a9dadbbde82"  height="350" width="800"/>
 </div>
 
+- Within the gastronomic landscape of Bangalore, 'Creams and Bites' and 'Freshness' stand out as exceptional restaurants, both achieving an impressive average rating of 4.45. This 
+  stellar performance underscores their dedication to quality and customer satisfaction, solidifying their positions as top-rated dining establishments
+
+- Following closely is 'Voosh Dakshin,' which boasts a noteworthy rating of 4.42, reaffirming its reputation as a distinguished restaurant in the city.
 <br>
 <div id="header" align="center">
     <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/d1990459-864f-429e-bab9-66fdd7ad19ad"  height="350" width="800"/>
 </div> 
+
+- Upon a meticulous examination of cuisine pricing trends, it becomes evident that Continental cuisine stands out as the most premium offering, commanding a notably high price point. 
+  Following closely, we find Mughlai cuisine, which also positions itself in the upper echelons of pricing within the culinary spectrum. Kerala cuisine and Coastal cuisine share a 
+  similar distinction, both offering a premium dining experience.
 <br>
 <div id="header" align="center">
     <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/be69365c-c463-4c3e-bfa0-a202cef2503a"  height="350" width="800"/>
 </div> 
 
+-  An in-depth examination of cuisine preferences within Bangalore reveals a notable trend in favor of South Indian cuisine, which emerges as the most popular choice among diners. This 
+   culinary preference is closely trailed by North Indian cuisine, indicating a diverse gastronomic landscape within the city. Additionally, Chinese cuisine, snacks, and beverages hold 
+   significant positions in the overall culinary landscape
 <br>
 <div id="header" align="center">
     <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/63962bff-9bc4-4c75-ae0c-9387f3afe874"  height="350" width="800"/>
 </div> 
 
+-  Upon a comprehensive analysis of the data, it is noteworthy that Sampangirama Nagar and Azad Nagar emerge as the leading locales, both boasting an impressive average rating of 4.55. 
+   Chamrajpet and Highgrounds closely follow suit, exhibiting commendable average ratings of 4.50. 
 
 ## Dashboard:
 <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/ec47bd8b-4940-48cb-92ad-d8fd994d55a6" height="550" width="1100">
