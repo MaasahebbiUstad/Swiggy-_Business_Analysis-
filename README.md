@@ -60,6 +60,8 @@ Advanced machine learning algorithms were employed to develop predictive models 
     <img src="hhttps://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/4cb1a0df-23f8-42e5-bc77-f39f79ba6056"  height="350" width="800"/>
 </div> 
 
+## Dashboard:
+
 ## <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/0ce17a56-cce8-47d5-a1ed-232355a3770b" width="48" height="48">Challenges:
 
 - **Dynamic Data Collection:** The project encountered complexities in data collection, primarily stemming from the dynamic nature of the website. Adapting to real-time changes and ensuring a consistent and reliable data stream presented an ongoing challenge.
