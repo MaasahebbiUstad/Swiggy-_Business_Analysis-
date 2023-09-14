@@ -35,6 +35,8 @@ Thorough EDA was performed to uncover key patterns, trends, and correlations wit
 - **Predictive Modeling:**
 Advanced machine learning algorithms were employed to develop predictive models for key business aspects: price, best cuisine, and location. These models offer the capability to forecast restaurant-specific prices, optimal cuisine choices, and the most promising locations for new ventures.
 
+## <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/1a839dfc-2edc-4981-bbed-fcd9b6912aba" width="50" height="48">Data-driven Insights Gallery:
+
 ## <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/0ce17a56-cce8-47d5-a1ed-232355a3770b" width="48" height="48">Challenges:
 
 - **Dynamic Data Collection:** The project encountered complexities in data collection, primarily stemming from the dynamic nature of the website. Adapting to real-time changes and ensuring a consistent and reliable data stream presented an ongoing challenge.
