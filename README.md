@@ -36,6 +36,29 @@ Thorough EDA was performed to uncover key patterns, trends, and correlations wit
 Advanced machine learning algorithms were employed to develop predictive models for key business aspects: price, best cuisine, and location. These models offer the capability to forecast restaurant-specific prices, optimal cuisine choices, and the most promising locations for new ventures.
 
 ## <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/1a839dfc-2edc-4981-bbed-fcd9b6912aba" width="50" height="48">Data-driven Insights Gallery:
+<div id="header" align="center">
+    <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/e5d5912e-61b7-496e-aa05-0eae3e111c45"  height="350" width="800"/>
+</div> 
+
+
+<br>
+<div id="header" align="center">
+    <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/34d78a3d-c44a-42f8-be64-2a9dadbbde82"  height="350" width="800"/>
+</div>
+
+<br>
+<div id="header" align="center">
+    <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/d1990459-864f-429e-bab9-66fdd7ad19ad"  height="350" width="800"/>
+</div> 
+<br>
+<div id="header" align="center">
+    <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/be69365c-c463-4c3e-bfa0-a202cef2503a"  height="350" width="800"/>
+</div> 
+
+<br>
+<div id="header" align="center">
+    <img src="hhttps://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/4cb1a0df-23f8-42e5-bc77-f39f79ba6056"  height="350" width="800"/>
+</div> 
 
 ## <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/0ce17a56-cce8-47d5-a1ed-232355a3770b" width="48" height="48">Challenges:
 
