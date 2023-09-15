@@ -110,7 +110,7 @@ Advanced machine learning algorithms were employed to develop predictive models 
 
 - **Automated Data Collection:** Investigate the feasibility of automating the data collection process to reduce manual effort, increase efficiency, and provide more up-to-date information.
 
-- **Ethical AI Integration: Stay at the forefront of ethical AI practices by incorporating transparency and fairness into the project's algorithms, aligning with evolving regulations and ethical standards.
+- **Ethical AI Integration:** Stay at the forefront of ethical AI practices by incorporating transparency and fairness into the project's algorithms, aligning with evolving regulations and ethical standards.
 
 - **Collaborative Partnerships:** Explore collaboration opportunities with restaurant associations, culinary schools, and industry stakeholders to further refine the project's recommendations and foster industry growth.
 
