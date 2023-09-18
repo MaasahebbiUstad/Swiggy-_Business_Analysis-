@@ -37,7 +37,7 @@ Advanced machine learning algorithms were employed to develop predictive models 
 
 ## <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/1a839dfc-2edc-4981-bbed-fcd9b6912aba" width="50" height="48">Data-driven Insights Gallery:
 <div id="header" align="center">
-    <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/e5d5912e-61b7-496e-aa05-0eae3e111c45"  height="350" width="800"/>
+    <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/e5d5912e-61b7-496e-aa05-0eae3e111c45"  height="350" width="700"/>
 </div> 
 
 - The striking alignment of the top 20 restaurants, each boasting an impressive 14,444 delivery ratings, underscores an exceptional level of consistency and excellence in their service 
@@ -46,7 +46,7 @@ Advanced machine learning algorithms were employed to develop predictive models 
 
 <br>
 <div id="header" align="center">
-    <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/34d78a3d-c44a-42f8-be64-2a9dadbbde82"  height="350" width="800"/>
+    <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/34d78a3d-c44a-42f8-be64-2a9dadbbde82"  height="350" width="700"/>
 </div>
 
 - Within the gastronomic landscape of Bangalore, 'Creams and Bites' and 'Freshness' stand out as exceptional restaurants, both achieving an impressive average rating of 4.45. This 
@@ -55,7 +55,7 @@ Advanced machine learning algorithms were employed to develop predictive models 
 - Following closely is 'Voosh Dakshin,' which boasts a noteworthy rating of 4.42, reaffirming its reputation as a distinguished restaurant in the city.
 <br>
 <div id="header" align="center">
-    <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/d1990459-864f-429e-bab9-66fdd7ad19ad"  height="350" width="800"/>
+    <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/d1990459-864f-429e-bab9-66fdd7ad19ad"  height="350" width="700"/>
 </div> 
 
 - Upon a meticulous examination of cuisine pricing trends, it becomes evident that Continental cuisine stands out as the most premium offering, commanding a notably high price point. 
@@ -63,7 +63,7 @@ Advanced machine learning algorithms were employed to develop predictive models 
   similar distinction, both offering a premium dining experience.
 <br>
 <div id="header" align="center">
-    <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/be69365c-c463-4c3e-bfa0-a202cef2503a"  height="350" width="800"/>
+    <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/be69365c-c463-4c3e-bfa0-a202cef2503a"  height="350" width="700"/>
 </div> 
 
 -  An in-depth examination of cuisine preferences within Bangalore reveals a notable trend in favor of South Indian cuisine, which emerges as the most popular choice among diners. This 
@@ -71,7 +71,7 @@ Advanced machine learning algorithms were employed to develop predictive models 
    significant positions in the overall culinary landscape
 <br>
 <div id="header" align="center">
-    <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/63962bff-9bc4-4c75-ae0c-9387f3afe874"  height="350" width="800"/>
+    <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/63962bff-9bc4-4c75-ae0c-9387f3afe874"  height="350" width="700"/>
 </div> 
 
 -  Upon a comprehensive analysis of the data, it is noteworthy that Sampangirama Nagar and Azad Nagar emerge as the leading locales, both boasting an impressive average rating of 4.55. 
