@@ -84,6 +84,17 @@ Advanced machine learning algorithms were employed to develop predictive models 
 ## Dashboard:
 <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/ec47bd8b-4940-48cb-92ad-d8fd994d55a6" height="550" width="1100">
 
+
+**Top 20 Restaurants:** The alignment of the top 20 restaurants with an impressive 14,444 delivery ratings highlights their remarkable consistency and excellence in customer service, signifying a strong commitment to delivering exceptional dining experiences.
+
+**Top-Rated Restaurants :** Creams and Bites, Freshness, and Voosh Dakshin Shine with Impressive Ratings
+
+**Cuisine Pricing Trends:** An examination of cuisine pricing trends reveals that Continental cuisine holds a premium position with notably high prices. Mughlai cuisine also ranks among the upper echelons of pricing. Kerala cuisine and Coastal cuisine offer premium dining experiences as well.
+
+**Cuisine Preferences:** South Indian cuisine emerges as the most popular choice among diners in Bangalore, closely followed by North Indian cuisine, showcasing the city's diverse gastronomic landscape. Chinese cuisine, snacks, and beverages also have significant positions in the culinary scene.
+
+**Leading Locales:** After a comprehensive analysis, Sampangirama Nagar and Azad Nagar emerge as the leading locales, both boasting an impressive average rating of 4.55. Chamrajpet and Highgrounds closely follow with commendable average ratings of 4.50.
+
 ## <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/0ce17a56-cce8-47d5-a1ed-232355a3770b" width="48" height="48">Challenges:
 
 - **Dynamic Data Collection:** The project encountered complexities in data collection, primarily stemming from the dynamic nature of the website. Adapting to real-time changes and ensuring a consistent and reliable data stream presented an ongoing challenge.
