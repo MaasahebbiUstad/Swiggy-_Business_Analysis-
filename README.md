@@ -20,7 +20,7 @@ The Swiggy Business Analysis and Predictive Modeling project is a comprehensive 
 
 * **Competitive Edge:** Empower stakeholders to gain a competitive edge in the Swiggy marketplace by leveraging data-driven insights.
 
-* **Informed Decision-Making:** Facilitate informed decision-making for restaurant owners and aspiring entrepreneurs, helping them make strategic choices based on data-driven              recommendations.
+* **Informed Decision-Making:** Facilitate informed decision-making for restaurant owners and aspiring entrepreneurs, helping them make strategic choices based on data-driven recommendations.
 
 * **Strategic Bridge:** Bridge the gap between data and actionable strategies, ensuring that data analysis directly contributes to improved restaurant operations.
 
@@ -40,7 +40,13 @@ Thorough EDA was performed to uncover key patterns, trends, and correlations wit
 - **Predictive Modeling:**
 Advanced machine learning algorithms were employed to develop predictive models for key business aspects: price, best cuisine, and location. These models offer the capability to forecast restaurant-specific prices, optimal cuisine choices, and the most promising locations for new ventures.
 
-## <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/1a839dfc-2edc-4981-bbed-fcd9b6912aba" width="50" height="48">Data-driven Insights Gallery:
+ ## Tools employed:
+ <p float="left">
+  <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/065f1ca9-2b47-47b9-88b9-62a2fce746be" alt="Excel GIF" width="60" height="58">
+  <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/7fc2a7c8-a736-4736-90cd-28e314aa31e6" alt="Python GIF" width="60" height="58">
+</p>
+
+## <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/1a839dfc-2edc-4981-bbed-fcd9b6912aba" width="50" height="48">Data-driven EDA Insights Gallery:
 <div id="header" align="center">
     <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/e5d5912e-61b7-496e-aa05-0eae3e111c45"  height="350" width="700"/>
 </div> 
