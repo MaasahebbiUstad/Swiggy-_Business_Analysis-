@@ -28,28 +28,25 @@ The Swiggy Business Analysis and Predictive Modeling project is a comprehensive 
 ## <img src="https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/057551de-877a-4a41-916c-d47e81053404"  width="48" height="48">Project Objectives:
 
 - **Data Collection:** 
- The project commenced with the systematic collection of data from Swiggy, employing web scraping techniques using the BeautifulSoup library and Selenium. This ensured a robust dataset, comprising 
+ The project commenced with the systematic collection of data from Swiggy, employing web scraping techniques using the BeautifulSoup library and Selenium. 
+ This ensured a robust dataset, comprising 
  information related to restaurant performance, customer preferences, and market trends.
+
+<img src="https://github.com/AnjaliBakshi17/Restaurant-Recommendation-Model/blob/main/Image/ImageHosting/scrapped%201.jpeg" width="800" >
+<img src="https://github.com/AnjaliBakshi17/Restaurant-Recommendation-Model/blob/main/Image/ImageHosting/scrapped%202.jpeg" width="800" >
+
+- **Data Conversion:**
+ Utilizing Excel, the scraped data underwent transformation into  table.
+ <img src="https://github.com/AnjaliBakshi17/Restaurant-Recommendation-Model/blob/main/Image/ImageHosting/final%20cleaned%201.jpeg" width="800" >
 
 - **Data Cleaning:** 
 The collected data underwent meticulous cleaning and preprocessing to eliminate inconsistencies, missing values, and outliers. This critical step ensures that subsequent analyses and modeling are based on high-quality, reliable data.
 
+<img src="https://github.com/AnjaliBakshi17/Restaurant-Recommendation-Model/blob/main/Image/ImageHosting/final%20cleaned%202.jpeg" width="800" >
+
 - **Exploratory Data Analysis (EDA):** 
 Thorough EDA was performed to uncover key patterns, trends, and correlations within the dataset. Insights from EDA provided a deeper understanding of customer behavior, restaurant performance metrics, and market dynamics.
 
-- **Predictive Modeling:**
-Advanced machine learning algorithms were employed to develop predictive models for key business aspects: price, best cuisine, and location. These models offer the capability to forecast restaurant-specific prices, optimal cuisine choices, and the most promising locations for new ventures.
-
- ## Tools employed:
- <p float="left">
-  <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/065f1ca9-2b47-47b9-88b9-62a2fce746be" alt="Excel GIF" width="60" height="58">
-  <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/7fc2a7c8-a736-4736-90cd-28e314aa31e6" alt="Python GIF" width="60" height="58">
-  <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/db122c14-b940-4d9b-b9d6-7dc6f18afe9f" alt="Python GIF" width="60" height="58">
-</p>
-
-* The analysis leveraged a powerful combination of tools. Microsoft Excel provided a user-friendly interface for initial data exploration, while Python, aided by the Pandas library, automated data 
-  manipulation and transformation. Python's scripting capabilities extended to machine learning tasks, enabling predictive modeling and algorithm development for critical insights. This integration of Excel 
-  for user-friendliness, Python/Pandas for data processing, and machine learning tools ensured a comprehensive approach to data analysis, from cleaning and exploration to predictive modeling.
 
 ## <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/1a839dfc-2edc-4981-bbed-fcd9b6912aba" width="50" height="48">Data-driven EDA Insights Gallery:
 
@@ -105,6 +102,22 @@ Advanced machine learning algorithms were employed to develop predictive models 
 
 ## Dashboard:
 <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/ec47bd8b-4940-48cb-92ad-d8fd994d55a6" height="550" width="1100">
+
+- **Predictive Modeling:**
+Advanced machine learning algorithms were employed to develop predictive models for key business aspects: price, best cuisine, and location. These models offer the capability to forecast restaurant-specific prices, optimal cuisine choices, and the most promising locations for new ventures.
+
+* The analysis leveraged a powerful combination of tools. Microsoft Excel provided a user-friendly interface for initial data exploration, while Python, aided by the Pandas library, automated data 
+  manipulation and transformation. Python's scripting capabilities extended to machine learning tasks, enabling predictive modeling and algorithm development for critical insights. This integration of Excel 
+  for user-friendliness, Python/Pandas for data processing, and machine learning tools ensured a comprehensive approach to data analysis, from cleaning and exploration to predictive modeling.
+
+
+ ## Tools employed:
+ <p float="left">
+  <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/065f1ca9-2b47-47b9-88b9-62a2fce746be" alt="Excel GIF" width="60" height="58">
+  <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/7fc2a7c8-a736-4736-90cd-28e314aa31e6" alt="Python GIF" width="60" height="58">
+  <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/db122c14-b940-4d9b-b9d6-7dc6f18afe9f" alt="Python GIF" width="60" height="58">
+</p>
+
 
 ## <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/4d5c4735-a50c-4876-84c2-b19031384635" height="50" width="48">Conclusions:
 
