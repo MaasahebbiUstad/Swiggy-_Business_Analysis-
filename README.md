@@ -44,7 +44,12 @@ Advanced machine learning algorithms were employed to develop predictive models 
  <p float="left">
   <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/065f1ca9-2b47-47b9-88b9-62a2fce746be" alt="Excel GIF" width="60" height="58">
   <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/7fc2a7c8-a736-4736-90cd-28e314aa31e6" alt="Python GIF" width="60" height="58">
+  <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/db122c14-b940-4d9b-b9d6-7dc6f18afe9f" alt="Python GIF" width="60" height="58">
 </p>
+
+* The analysis leveraged a powerful combination of tools. Microsoft Excel provided a user-friendly interface for initial data exploration, while Python, aided by the Pandas library, automated data 
+  manipulation and transformation. Python's scripting capabilities extended to machine learning tasks, enabling predictive modeling and algorithm development for critical insights. This integration of Excel 
+  for user-friendliness, Python/Pandas for data processing, and machine learning tools ensured a comprehensive approach to data analysis, from cleaning and exploration to predictive modeling.
 
 ## <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/1a839dfc-2edc-4981-bbed-fcd9b6912aba" width="50" height="48">Data-driven EDA Insights Gallery:
 <div id="header" align="center">
