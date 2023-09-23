@@ -8,19 +8,23 @@ The Swiggy Business Analysis and Predictive Modeling project is a comprehensive 
 <br/>
 
 ## <img src="https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/030e1f21-e04f-4cbd-b301-3576c8c1acc3"  width="48" height="48">Project Aim:
+* **Price Prediction:** Address the challenge of predicting restaurant-specific prices accurately, helping both restaurant owners and customers make informed decisions.
 
-- Harness the power of data analysis and predictive modeling.
-- Empower restaurant owners and aspiring entrepreneurs in the food delivery industry.
-- Provide data-driven insights to enhance decision-making.
-- Predict restaurant-specific prices.
-- Identify optimal cuisine choices for restaurant menus.
-- Determine ideal locations for new restaurant ventures.
-- Improve the chances of restaurant success.
-- Enhance profitability for restaurant owners.
-- Enable stakeholders to gain a competitive edge in the Swiggy marketplace.
-- Facilitate informed decision-making based on data-driven recommendations.
-- Bridge the gap between data and actionable strategies.
-- Contribute to the growth and sustainability of restaurants operating on the Swiggy platform.
+* **Menu Optimization:** Solve the problem of identifying optimal cuisine choices for restaurant menus, ensuring that restaurants offer appealing and profitable food options.
+
+* **Location Analysis:** Tackle the problem of determining ideal locations for new restaurant ventures, assisting entrepreneurs in choosing strategic areas for their establishments.
+
+* **Restaurant Success:** Improve the chances of restaurant success by providing insights and recommendations based on data analysis.
+
+* **Profitability Enhancement:** Focus on enhancing profitability for restaurant owners by optimizing various aspects of their operations.
+
+* **Competitive Edge:** Empower stakeholders to gain a competitive edge in the Swiggy marketplace by leveraging data-driven insights.
+
+* **Informed Decision-Making:** Facilitate informed decision-making for restaurant owners and aspiring entrepreneurs, helping them make strategic choices based on data-driven              recommendations.
+
+* **Strategic Bridge:** Bridge the gap between data and actionable strategies, ensuring that data analysis directly contributes to improved restaurant operations.
+
+* **Growth and Sustainability:** Contribute to the growth and sustainability of restaurants operating on the Swiggy platform by providing valuable insights and recommendations.
 ## <img src="https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/057551de-877a-4a41-916c-d47e81053404"  width="48" height="48">Project Objectives:
 
 - **Data Collection:** 
