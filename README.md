@@ -52,6 +52,8 @@ Advanced machine learning algorithms were employed to develop predictive models 
   for user-friendliness, Python/Pandas for data processing, and machine learning tools ensured a comprehensive approach to data analysis, from cleaning and exploration to predictive modeling.
 
 ## <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/1a839dfc-2edc-4981-bbed-fcd9b6912aba" width="50" height="48">Data-driven EDA Insights Gallery:
+
+### Highly Rated Restaurants by Delivery Performance
 <div id="header" align="center">
     <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/e5d5912e-61b7-496e-aa05-0eae3e111c45"  height="350" width="700"/>
 </div> 
@@ -61,6 +63,8 @@ Advanced machine learning algorithms were employed to develop predictive models 
   discerning customer base.
 
 <br>
+
+### Top-Rated Restaurants Selection
 <div id="header" align="center">
     <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/34d78a3d-c44a-42f8-be64-2a9dadbbde82"  height="350" width="700"/>
 </div>
@@ -70,6 +74,8 @@ Advanced machine learning algorithms were employed to develop predictive models 
 
 - Following closely is 'Voosh Dakshin,' which boasts a noteworthy rating of 4.42, reaffirming its reputation as a distinguished restaurant in the city.
 <br>
+
+### Most Expensive Cuisine Selection
 <div id="header" align="center">
     <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/d1990459-864f-429e-bab9-66fdd7ad19ad"  height="350" width="700"/>
 </div> 
@@ -78,6 +84,8 @@ Advanced machine learning algorithms were employed to develop predictive models 
   Following closely, we find Mughlai cuisine, which also positions itself in the upper echelons of pricing within the culinary spectrum. Kerala cuisine and Coastal cuisine share a 
   similar distinction, both offering a premium dining experience.
 <br>
+
+### Highly Popular Cuisine Selection
 <div id="header" align="center">
     <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/be69365c-c463-4c3e-bfa0-a202cef2503a"  height="350" width="700"/>
 </div> 
@@ -86,6 +94,8 @@ Advanced machine learning algorithms were employed to develop predictive models 
    culinary preference is closely trailed by North Indian cuisine, indicating a diverse gastronomic landscape within the city. Additionally, Chinese cuisine, snacks, and beverages hold 
    significant positions in the overall culinary landscape
 <br>
+
+### Highest-Rated Locations Analysis
 <div id="header" align="center">
     <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/63962bff-9bc4-4c75-ae0c-9387f3afe874"  height="350" width="700"/>
 </div> 
