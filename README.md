@@ -104,11 +104,20 @@ Thorough EDA was performed to uncover key patterns, trends, and correlations wit
 <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/ec47bd8b-4940-48cb-92ad-d8fd994d55a6" height="550" width="1100">
 
 - **Predictive Modeling:**
+ 
 Advanced machine learning algorithms were employed to develop predictive models for key business aspects: price, best cuisine, and location. These models offer the capability to forecast restaurant-specific prices, optimal cuisine choices, and the most promising locations for new ventures.
 
 * The analysis leveraged a powerful combination of tools. Microsoft Excel provided a user-friendly interface for initial data exploration, while Python, aided by the Pandas library, automated data 
   manipulation and transformation. Python's scripting capabilities extended to machine learning tasks, enabling predictive modeling and algorithm development for critical insights. This integration of Excel 
   for user-friendliness, Python/Pandas for data processing, and machine learning tools ensured a comprehensive approach to data analysis, from cleaning and exploration to predictive modeling.
+
+ <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/02afd79f-1d1f-4828-9b95-ff70e1b3a21d" width="800" height="450">
+ <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/8b2e4fb3-13aa-408f-b8c4-d770f4049566" width="800" height="450">
+ <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/f457a289-52b7-4b52-89e4-f8a3727ad519" width="800" height="450">
+ <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/827b5df5-769f-472e-82b5-773f8faabe90" width="800" height="450">
+ <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/1d8df8b3-fae8-4ca9-9cb0-e7bac0fe9f1f" width="800" height="450">
+ <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/31333615-59a4-4aaf-8b7c-7f35f23465af" width="800" height="450">
+ <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/bc1a55c0-9b7b-437c-997b-0bc69d0c901a" width="800" height="450">
 
 
  ## Tools employed:
