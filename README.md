@@ -28,7 +28,8 @@ The Swiggy Business Analysis and Predictive Modeling project is a comprehensive 
 ## <img src="https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/057551de-877a-4a41-916c-d47e81053404"  width="48" height="48">Project Objectives:
 
 - **Data Collection:** 
- The project commenced with the systematic collection of data from Swiggy, employing web scraping techniques using the BeautifulSoup library and Selenium. This ensured a robust           dataset, comprising information related to restaurant performance, customer preferences, and market trends.
+ The project commenced with the systematic collection of data from Swiggy, employing web scraping techniques using the BeautifulSoup library and Selenium. This ensured a robust dataset, comprising 
+ information related to restaurant performance, customer preferences, and market trends.
 
 - **Data Cleaning:** 
 The collected data underwent meticulous cleaning and preprocessing to eliminate inconsistencies, missing values, and outliers. This critical step ensures that subsequent analyses and modeling are based on high-quality, reliable data.
@@ -84,16 +85,19 @@ Advanced machine learning algorithms were employed to develop predictive models 
 ## Dashboard:
 <img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/ec47bd8b-4940-48cb-92ad-d8fd994d55a6" height="550" width="1100">
 
+## <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/4d5c4735-a50c-4876-84c2-b19031384635" height="50" width="48">Conclusions:
 
-**Top 20 Restaurants:** The alignment of the top 20 restaurants with an impressive 14,444 delivery ratings highlights their remarkable consistency and excellence in customer service, signifying a strong commitment to delivering exceptional dining experiences.
+* **Top 20 Restaurants:** The alignment of the top 20 restaurants with an impressive 14,444 delivery ratings highlights their remarkable consistency and excellence in customer service, signifying a strong *     commitment to delivering exceptional dining experiences.
 
-**Top-Rated Restaurants :** Creams and Bites, Freshness, and Voosh Dakshin Shine with Impressive Ratings
+* **Top-Rated Restaurants :** Creams and Bites, Freshness, and Voosh Dakshin Shine with Impressive Ratings
 
-**Cuisine Pricing Trends:** An examination of cuisine pricing trends reveals that Continental cuisine holds a premium position with notably high prices. Mughlai cuisine also ranks among the upper echelons of pricing. Kerala cuisine and Coastal cuisine offer premium dining experiences as well.
+* **Cuisine Pricing Trends:** An examination of cuisine pricing trends reveals that Continental cuisine holds a premium position with notably high prices. Mughlai cuisine also ranks among the upper echelons     of pricing. Kerala cuisine and Coastal cuisine offer premium dining experiences as well.
 
-**Cuisine Preferences:** South Indian cuisine emerges as the most popular choice among diners in Bangalore, closely followed by North Indian cuisine, showcasing the city's diverse gastronomic landscape. Chinese cuisine, snacks, and beverages also have significant positions in the culinary scene.
+* **Cuisine Preferences:** South Indian cuisine emerges as the most popular choice among diners in Bangalore, closely followed by North Indian cuisine, showcasing the city's diverse gastronomic landscape. 
+  Chinese cuisine, snacks, and beverages also have significant positions in the culinary scene.
 
-**Leading Locales:** After a comprehensive analysis, Sampangirama Nagar and Azad Nagar emerge as the leading locales, both boasting an impressive average rating of 4.55. Chamrajpet and Highgrounds closely follow with commendable average ratings of 4.50.
+* **Leading Locales:** After a comprehensive analysis, Sampangirama Nagar and Azad Nagar emerge as the leading locales, both boasting an impressive average rating of 4.55. Chamrajpet and Highgrounds closely 
+  follow with commendable average ratings of 4.50.
 
 ## <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/0ce17a56-cce8-47d5-a1ed-232355a3770b" width="48" height="48">Challenges:
 
