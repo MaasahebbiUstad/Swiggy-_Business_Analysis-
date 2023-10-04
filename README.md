@@ -32,8 +32,9 @@ The Swiggy Business Analysis and Predictive Modeling project is a comprehensive 
  This ensured a robust dataset, comprising 
  information related to restaurant performance, customer preferences, and market trends.
 
-<img src="https://github.com/AnjaliBakshi17/Restaurant-Recommendation-Model/blob/main/Image/ImageHosting/scrapped%201.jpeg" width="800" >
-<img src="https://github.com/AnjaliBakshi17/Restaurant-Recommendation-Model/blob/main/Image/ImageHosting/scrapped%202.jpeg" width="800" >
+<img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/d3fe5576-e5b7-4016-80d1-2c692c8573d5" width="800" >
+<img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/d151265e-5804-4341-b78d-0561e9810a9c" width="800" >
+<img src="https://github.com/MaasahebbiUstad/Swiggy_Business_Analysis/assets/137813961/4d4271e2-c05a-4761-a552-43c8ac53b3a8" width="800" >
 
 - **Data Conversion:**
  Utilizing Excel, the scraped data underwent transformation into  table.
